@@ -1,5 +1,2 @@
-
-print("jwekfbnewjknfkwejfnjkw".   )
-
-
+print("jwekfbnewjknfkwejfnjkw")
 print('hello world')
